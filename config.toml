@@ -5,7 +5,7 @@ paginate = 10
 theme = "hyde-x"
 
 [author]
-    name = "zubin"
+    name = "Zubin Mehta"
 
 [taxonomies]
     category = "categories"
@@ -14,4 +14,3 @@ theme = "hyde-x"
 [params]
     truncate = true
     theme = "theme-base-08"
-    tagline = "Here is some tagline"
