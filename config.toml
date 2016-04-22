@@ -1,0 +1,17 @@
+baseurl = "http://47bin.com"
+languageCode = "en-us"
+title = "47bin | Personal website"
+paginate = 10
+theme = "hyde-x"
+
+[author]
+    name = "zubin"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[params]
+    truncate = true
+    theme = "theme-base-08"
+    tagline = "Here is some tagline"
