@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zubin Mehta on 47bin | Personal website</title>
+    <link>http://localhost:1313/tags/zubin-mehta/</link>
+    <description>Recent content in Zubin Mehta on 47bin | Personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2015 21:29:55 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/zubin-mehta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 30 Sep 2015 21:29:55 +0530</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;p&gt;Hi, I am zubin and this my personal website.&lt;/p&gt;
+
+&lt;p&gt;I grew up in Bombay and have stayed here for major part of my life. I graduated from IIT Bombay with masters in Chemistry.&lt;/p&gt;
+
+&lt;p&gt;Currently, I am building &lt;a href=&#34;https://zing42.com&#34; target=&#34;_blank&#34;&gt;zing42&lt;/a&gt; which is a command based messenger application.&lt;/p&gt;
+
+&lt;p&gt;I like solving complex problems, writing programs, coming up with (startup) ideas, making lists, appreciating colors and making plans for world domination.&lt;/p&gt;
+
+&lt;p&gt;I also enjoy taking evening walks, drinking water and writing on whiteboards.&lt;/p&gt;
+
+&lt;p&gt;I have worked extensively in the area of unstructured text.&lt;/p&gt;
+
+&lt;p&gt;I live in Bombay with my parents and my wife Shilpi.&lt;/p&gt;
+
+&lt;p&gt;The source code of this website resides &lt;a href=&#34;https://github.com/zubinmehta/47bin.com&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--This personal website project has been on my mind for a long time. This will be the place for me to catalog my ideas, code and personal life and findings.--&gt;
+
+&lt;!--
+After years of,
+
+* writing on different platforms and walls
+* scribbling thoughts in small pocket diaries
+* seeing ideas and thoughts and questions that go nowhere
+* saving world-changing links in various places
+* expressing thoughts in one-liners
+
+I decided to take matters into my hand to save our world, thus, this website.
+--&gt;
+
+&lt;!-- autogenerate list based on categories - take top 10 based on frequency --&gt;
+
+&lt;!--
+Here, I shall talk about the following and more:
+
+* ideas
+* programming-general
+* python
+* math
+* startups
+* opinions
+* internet
+* philosophy
+* thoughts
+* science
+* even art
+* daily-life
+* recommendations
+* technology
+* web-technology
+* tv-series
+* lists
+* existence
+* surrealism
+* machine-learning
+* personal-experiences
+* solving-problems
+--&gt;
+
+&lt;h3 id=&#34;contact:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact&lt;/h3&gt;
+
+&lt;p&gt;You can reach me at zubinpm at gmail&lt;/p&gt;
+
+&lt;!--
+I live in Bombay with my parents and my wife Shilpi.
+My brother, [Raj](http://chemicalfiles.blogspot.in/p/about.html) is having fun in Netherlands right now.
+--&gt;
+
+&lt;!--
+
+I have worked on and have some expertise in the following:
+
+1. handling unstructured data
+2. python programming
+3. 
+
+--&gt;
+
+&lt;!--
+I am the master list maker.
+
+and I am pretty much interested in most things including and not limited to:
+
+* how is a rocket made
+* 
+
+but not the following:
+
+* cooking (For reasons beyond my understanding, I am not interested in cooking)
+* 
+
+--&gt;
+
+&lt;!--
+My interests lie in:
+* 
+* humour
+* collecting-books
+* having a messy workspace(both physical &amp; digital)
+* predicting-the-future
+* stock-markets
+* programming
+* 
+
+
+I am new to:
+
+* gardening
+* photography
+* 
+
+
+What I want to do:
+
+* 
+--&gt;
+
+&lt;!--
+But what I really love doing is writing programs. I like to call myself a programmer instead of developer  
+--&gt;
+
+&lt;!--
+purpose driven development
+programmer not a developer
+
+--&gt;
+
+&lt;!--
+You can find details about me on the internet where my information is highly-available :Pun
+--&gt;
+
+&lt;!--
+Humans I like:
+--&gt;
+
+&lt;!--
+I am married to [Shilpi](https://www.facebook.com/shilpi.goel.5)
+--&gt;
+
+&lt;!--
+I am currently working on something confidential.
+--&gt;
+
+&lt;p&gt;&lt;small&gt;Built using &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;HUGO&lt;/a&gt; and &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt; &lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
