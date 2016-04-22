@@ -1,6 +1,5 @@
 +++
 date = "2015-09-30T21:29:55+05:30"
-draft = true
 title = "About"
 menu = "main"
 tags = ["about me", "zubin mehta"]
