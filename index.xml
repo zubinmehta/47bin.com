@@ -6,8 +6,153 @@
     <description>Recent content on 47bin | Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Apr 2016 15:25:44 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2016 12:35:57 +0530</lastBuildDate>
     <atom:link href="http://47bin.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>what is zing42</title>
+      <link>http://47bin.com/post/what-is-zing42/</link>
+      <pubDate>Mon, 25 Apr 2016 12:35:57 +0530</pubDate>
+      
+      <guid>http://47bin.com/post/what-is-zing42/</guid>
+      <description>
+
+&lt;p&gt;Command based messenger application.&lt;/p&gt;
+
+&lt;p&gt;zing42 is a project I have been working on for almost a year now.&lt;/p&gt;
+
+&lt;p&gt;While chatting with people you would be able to do much more than just chat using our wide array of slash &amp;ldquo;/commands&amp;rdquo;. See below for examples.&lt;/p&gt;
+
+&lt;p&gt;At the heart of it, it is a mini programming language. It also incorporates some free notion of type-checking. We want to integrate with everything under the sun.&lt;/p&gt;
+
+&lt;p&gt;Following are a few examples to help you understand:&lt;/p&gt;
+
+&lt;h2 id=&#34;examples:ea126b48919539b24595e046f166e9cf&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:LightCoral;&#34;&gt;/nse &lt;/span&gt;&lt;span style=&#34;color;grey&#34;&gt;ashok leyland&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:DeepSkyBlue;&#34;&gt;
+/remind
+&lt;/span&gt;
+&lt;span style=&#34;color:grey;&#34;&gt;
+in 10h
+&lt;/span&gt;
+&lt;span style=&#34;color:firebrick;&#34;&gt;
+india pak match&lt;br /&gt;
+&lt;/span&gt;
+&lt;span style=&#34;color:blue;&#34;&gt;&lt;/span&gt;
+&lt;span style=&#34;color:DeepSkyBlue;&#34;&gt;
+/remind
+&lt;/span&gt;
+&lt;span style=&#34;color:grey;&#34;&gt;
+330pm
+&lt;/span&gt;
+&lt;span style=&#34;color:firebrick;&#34;&gt;
+/nse sbin
+&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:brown;&#34;&gt;
+/poll
+&lt;/span&gt;
+&lt;span style=&#34;color:DarkSeaGreen;&#34;&gt;
+&amp;ldquo;What would you all like?&amp;rdquo;
+&lt;/span&gt;
+&lt;span style=&#34;color:DarkSalmon;&#34;&gt;
+Beer or Coca-cola
+&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:blue&#34;&gt;/where&lt;/span&gt; is &lt;span style=&#34;color:DarkOrange;&#34;&gt;@zubin&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:green;&#34;&gt;/when&lt;/span&gt;
+&lt;span style=&#34;color:cadetblue;&#34;&gt;/bse sbin &amp;gt; 250 /notify&lt;/span&gt;   (Notify me when SBI crosses stock price of 250)&lt;br /&gt;
+&lt;span style=&#34;color:Fuchsia;&#34;&gt;/mail &lt;/span&gt;
+&lt;span style=&#34;color:goldenrod;&#34;&gt;list-of-sales-leads&lt;/span&gt;
+&lt;span style=&#34;color:;&#34;&gt;sales-mailer&lt;/span&gt;&lt;br /&gt;
+&lt;/span&gt;
+&lt;span style=&#34;color:DodgerBlue;&#34;&gt;/weather&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:brown;&#34;&gt;
+/cricket
+&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:blue;&#34;&gt;
+/calendar
+&lt;/span&gt;
+next week&lt;br /&gt;
+&lt;span style=&#34;color:green&#34;&gt;
+/list
+&lt;/span&gt;
+things-to-buy
+&lt;span style=&#34;color:darkgoldenrod&#34;&gt;
+add
+&lt;/span&gt;
+cheese cubes&lt;br /&gt;
+&lt;span style=&#34;color:black&#34;&gt;
+/likeaboss
+&lt;/span&gt;&lt;br /&gt;
+&lt;span style=&#34;color:red;&#34;&gt;
+/emergency
+&lt;/span&gt;
+&lt;span style=&#34;color:grey&#34;&gt;
+{optional message}
+&lt;/span&gt; &amp;mdash;&amp;gt;  send your location to your loved ones and/or nearest police station&lt;/p&gt;
+
+&lt;p&gt;and emotions&lt;br /&gt;
+&lt;span style=&#34;color:darkgreen;&#34;&gt;/happy&lt;/span&gt;,
+&lt;span style=&#34;color:darkred;&#34;&gt;/sad&lt;/span&gt;,
+&lt;span style=&#34;color:violet;&#34;&gt;/cry&lt;/span&gt;,
+&lt;span style=&#34;color:darkorange;&#34;&gt;/laugh&lt;/span&gt;,
+&lt;span style=&#34;color:tomato;&#34;&gt;/bye&lt;/span&gt;,
+&lt;span style=&#34;color:fuchsia;&#34;&gt;/welcome&lt;/span&gt;,
+etc.&lt;/p&gt;
+
+&lt;p&gt;Many more things, actually.&lt;/p&gt;
+
+&lt;p&gt;You want a job (/getjob), you want a plumber (/plumber), you want a doctors opinion on chat (/doctor), you want to order a pizza (/pizza) or get the bloodbank&amp;rsquo;s number(/bloodbank) &amp;mdash; its all just a command.&lt;/p&gt;
+
+&lt;p&gt;We are very excited to launch this. We should be android and web ready sometime in May, 2016 :)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;philosophy:ea126b48919539b24595e046f166e9cf&#34;&gt;Philosophy&lt;/h2&gt;
+
+&lt;p&gt;Program your life. We want everyone who understand chat to do more over chat. Everyone should be able to program basic things in and around their life.&lt;/p&gt;
+
+&lt;p&gt;I should be able to order a pizza by writing no more than 4-5 words. I should be able to know my historical record of gym visits in 2 words.&lt;/p&gt;
+
+&lt;p&gt;Communication is the backbone. Chat is just the delivery medium. Our human language is filled with verbs and prepositions that mean a lot. Clubbing this with a lot of context and we can see more powerful ideas emerge. We are not building AI systems. We want to build the legos and support more clever ideas &amp;ndash; 1 command and 1 line at a time.&lt;/p&gt;
+
+&lt;p&gt;Also, we are in this for the long term.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;faqs:ea126b48919539b24595e046f166e9cf&#34;&gt;Faqs&lt;/h2&gt;
+
+&lt;h3 id=&#34;where-is-the-app-i-cannot-wait-to-try-it:ea126b48919539b24595e046f166e9cf&#34;&gt;Where is the app, I cannot wait to try it ?&lt;/h3&gt;
+
+&lt;p&gt;We are still in beta. You can contact me and get the latest android apk (sorry no ios app yet!)&lt;/p&gt;
+
+&lt;h3 id=&#34;how-do-i-to-build-commands-for-zing42:ea126b48919539b24595e046f166e9cf&#34;&gt;How do I to build commands for zing42 ?&lt;/h3&gt;
+
+&lt;p&gt;Our APIs are not yet public but I can work with you on this front and help you publish your command. Contact me.&lt;/p&gt;
+
+&lt;h3 id=&#34;why-not-just-build-on-top-of-other-chat-platforms:ea126b48919539b24595e046f166e9cf&#34;&gt;Why not just build on top of other chat platforms.&lt;/h3&gt;
+
+&lt;p&gt;Looking at the current state of systems(no APIs), we decided to build one ourselves. We want to build the API for programmatic messaging alongwith providing hooks through the concept of commands.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-are-you-different-from-other-order-aggregators-out-in-the-market:ea126b48919539b24595e046f166e9cf&#34;&gt;How are you different from other order aggregators out in the market ?&lt;/h3&gt;
+
+&lt;p&gt;We are simply not one. We may integrate with certain things/companies but we are mostly just a tech platform that can integrate very well and have a cool fast interface to do stuff.&lt;br /&gt;
+Also, no human is sitting anywhere and replying to your demands or commands. Actually computers are answering your demands but they are foolish so you have to be a little more specific. But do not worry, we will guide you well.&lt;/p&gt;
+
+&lt;h3 id=&#34;but-aren-t-you-just-like:ea126b48919539b24595e046f166e9cf&#34;&gt;But aren&amp;rsquo;t you just like &amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Yes and no. Probably not but maybe. Who knows! There might be similarities as chat bots and messengers and cute cat gifs are all the craze. z42 looks similar. It is hard not to think, who this is like. But we have a particular way in which we are taking this forward.
+We want to keep building robust tech and see how it goes.&lt;/p&gt;
+
+&lt;h3 id=&#34;can-i-get-involved-in-this:ea126b48919539b24595e046f166e9cf&#34;&gt;Can I get involved in this ?&lt;/h3&gt;
+
+&lt;p&gt;Yes. Let&amp;rsquo;s talk.&lt;/p&gt;
+
+&lt;h3 id=&#34;i-have-more-questions-ideas-feedback-suggestions-for-zing42:ea126b48919539b24595e046f166e9cf&#34;&gt;I have more questions/ideas/feedback/suggestions for zing42&lt;/h3&gt;
+
+&lt;p&gt;Let&amp;rsquo;s talk.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hello world</title>

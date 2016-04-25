@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 47bin | Personal website</title>
-    <link>http://47bin.com/post/</link>
-    <description>Recent content in Posts on 47bin | Personal website</description>
+    <title>Zing42 on 47bin | Personal website</title>
+    <link>http://47bin.com/tags/zing42/</link>
+    <description>Recent content in Zing42 on 47bin | Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2016 12:35:57 +0530</lastBuildDate>
-    <atom:link href="http://47bin.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://47bin.com/tags/zing42/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>what is zing42</title>
@@ -151,18 +151,6 @@ We want to keep building robust tech and see how it goes.&lt;/p&gt;
 &lt;h3 id=&#34;i-have-more-questions-ideas-feedback-suggestions-for-zing42:ea126b48919539b24595e046f166e9cf&#34;&gt;I have more questions/ideas/feedback/suggestions for zing42&lt;/h3&gt;
 
 &lt;p&gt;Let&amp;rsquo;s talk.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>hello world</title>
-      <link>http://47bin.com/post/hello-world/</link>
-      <pubDate>Fri, 22 Apr 2016 15:25:44 +0530</pubDate>
-      
-      <guid>http://47bin.com/post/hello-world/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;
-
-&lt;p&gt;ok&lt;/p&gt;
 </description>
     </item>
     
