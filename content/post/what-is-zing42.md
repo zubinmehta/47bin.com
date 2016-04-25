@@ -20,14 +20,12 @@ While chatting with people you would be able to do much more than just chat usin
 At the heart of it, it is a mini programming language. It also incorporates some free notion of type-checking. We want to integrate with everything under the sun.
 
 
-
 Following are a few examples to help you understand:
 
 
 ## Examples
 
-
-<span style="color:LightCoral;">/nse </span><span style="color;grey">ashok leyland</span>  
+<span style="color:LightCoral;">/nse </span><span style="color;grey">ashok leyland</span> <span style="color:lightgrey;">(Stock price for NSE:ASHOKLEY)</span>  
 <span style="color:DeepSkyBlue;">
 /remind 
 </span>
@@ -35,7 +33,7 @@ Following are a few examples to help you understand:
 in 10h 
 </span>
 <span style="color:firebrick;">
-india pak match  
+india pak cricket match  
 </span>
 <span style="color:blue;"></span>
 <span style="color:DeepSkyBlue;">
@@ -45,7 +43,7 @@ india pak match
 330pm
 </span>
 <span style="color:firebrick;">
-/nse sbin
+/nse sbi
 </span>  
 <span style="color:brown;">
 /poll 
@@ -57,18 +55,21 @@ india pak match
 Beer or Coca-cola
 </span>  
 <span style="color:blue">/where</span> is <span style="color:DarkOrange;">@zubin</span>  
+<span style="color:blue">/uber</span>  
 <span style="color:green;">/when</span>
-<span style="color:cadetblue;">/bse sbin > 250 /notify</span>   (Notify me when SBI crosses stock price of 250)  
+<span style="color:cadetblue;">/nasdaq alphabet inc > 800 /notify</span>   <span style="color:lightgrey;">(Notify me when NASDAQ:GOOGL crosses stock price of 800)</span>  
 <span style="color:Fuchsia;">/mail </span>
 <span style="color:goldenrod;">list-of-sales-leads</span>
 <span style="color:;">sales-mailer</span>  
 </span>
 <span style="color:DodgerBlue;">/weather</span>  
+<span style="color:DodgerBlue;">/pay </span><span style="color:darkorange">@zubin</span> <span style="color:red">1 Billion dollars </span><span style="color:lightgrey">(thank you !)</span>  
+<span style="color:red">/box8</span> offers  
 <span style="color:brown;">
 /cricket
 </span>  
 <span style="color:blue;">
-/calendar 
+/calendar
 </span>
 next week  
 <span style="color:green">
@@ -79,15 +80,19 @@ things-to-buy
 add
 </span>
 cheese cubes  
+<span style="color:PaleVioletRed;">/movies upcoming</span>  
+<span style="color:SeaGreen;">/elonmusk</span>  
+<span style="color:royalblue">/keepcalm </span >and carry nothing <span style="color:lightgrey">(Creates your own poster)</span>  
 <span style="color:black">
 /likeaboss
 </span>  
+<span style="color:peru">/join powai</span> <span style="color:lightgrey">(Join powai named public group)</span>  
 <span style="color:red;">
 /emergency
 </span>
 <span style="color:grey">
 {optional message}
-</span> --->  send your location to your loved ones and/or nearest police station  
+</span> <span style="color:lightgrey;"> (send your location to your loved ones and/or nearest police station)</span>  
 
 and emotions  
 <span style="color:darkgreen;">/happy</span>, 
@@ -103,6 +108,8 @@ Many more things, actually.
 
 You want a job (/getjob), you want a plumber (/plumber), you want a doctors opinion on chat (/doctor), you want to order a pizza (/pizza) or get the bloodbank's number(/bloodbank) --- its all just a command.  
 
+If you have more ideas and if you think zing42 can help you or your organization, <a href="/contact/"> let me know.</a>
+
 We are very excited to launch this. We should be android and web ready sometime in May, 2016 :)
 
 
@@ -110,13 +117,11 @@ We are very excited to launch this. We should be android and web ready sometime 
 
 ## Philosophy
 
-Program your life. We want everyone who understand chat to do more over chat. Everyone should be able to program basic things in and around their life.
+Program your life. We want everyone who understand chat to do more over chat. Everyone should be able to program basic things in and around their life. Even companies, startups and just about any teams can use zing42 to program things for efficiency-nirvana and accountability.
 
 I should be able to order a pizza by writing no more than 4-5 words. I should be able to know my historical record of gym visits in 2 words.
 
-Communication is the backbone. Chat is just the delivery medium. Our human language is filled with verbs and prepositions that mean a lot. Clubbing this with a lot of context and we can see more powerful ideas emerge. We are not building AI systems. We want to build the legos and support more clever ideas -- 1 command and 1 line at a time.
-
-Also, we are in this for the long term.
+Communication is the backbone. Chat is the delivery medium. Our human language is filled with verbs and prepositions that mean a lot. Clubbing this with a lot of context and we can see more powerful ideas emerge. We want to build the legos and support more clever ideas -- 1 command and 1 line at a time.
 
 
 -------------------------------------------------
@@ -124,12 +129,12 @@ Also, we are in this for the long term.
 
 ### Where is the app, I cannot wait to try it ?
 
-We are still in beta. You can contact me and get the latest android apk (sorry no ios app yet!)
+We are still in beta. You can <a href="/contact/">ping me</a> and get the latest android apk (sorry no ios app yet!)
 
 
-### How do I to build commands for zing42 ?
+### How do I build commands for zing42 ?
 
-Our APIs are not yet public but I can work with you on this front and help you publish your command. Contact me.
+Our APIs are not yet public but I can work with you on this front and help you publish your command. <a href="/contact/">Contact me</a>.
 
 
 ### Why not just build on top of other chat platforms.
@@ -147,17 +152,25 @@ Also, no human is sitting anywhere and replying to your demands or commands. Act
 
 ### But aren't you just like ...
 
-Yes and no. Probably not but maybe. Who knows! There might be similarities as chat bots and messengers and cute cat gifs are all the craze. z42 looks similar. It is hard not to think, who this is like. But we have a particular way in which we are taking this forward.
+Yes and no. Probably not but maybe. Who knows! There might be similarities, as chat bots and messengers and cute cat gifs are all the craze. z42 looks similar. It is hard not to think, who this is like. But we have a particular way in which we are taking this forward.
 We want to keep building robust tech and see how it goes.
+
+
+### There are so many commands, it is too overwhelming.
+
+You need not use or even know most of the commands. With time you keep working with commands you can relate to and know them more and configure them to help you. Just like there are a million apps, but people only ever use 20!
+
+So do not be overwhelmed :)  
+/keepcalm and go one step at a time
 
 
 ### Can I get involved in this ?
 
-Yes. Let's talk.
+Yes. <a href="/contact/">Let's talk</a>
 
 
 ### I have more questions/ideas/feedback/suggestions for zing42
 
-Let's talk.
+<a href="/contact/">Let's talk</a>
 
 
