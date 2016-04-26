@@ -14,3 +14,6 @@ theme = "hyde-x"
 [params]
     truncate = true
     theme = "theme-base-08"
+
+    # Metadata used to drive integrations.
+    googleAnalytics = "UA-76952446-1"
