@@ -129,8 +129,7 @@ Communication is the backbone. Chat is the delivery medium. Our human language i
 
 ### Where is the app, I cannot wait to try it ?
 
-We are still in beta. You can <a href="/contact/">ping me</a> and get the latest android apk (sorry no ios app yet!)
-
+We are still in beta. We shall launch in May, 2016 (sorry no ios app yet).
 
 ### How do I build commands for zing42 ?
 
@@ -164,13 +163,7 @@ So do not be overwhelmed :)
 /keepcalm and go one step at a time
 
 
-### Can I get involved in this ?
-
-Yes. <a href="/contact/">Let's talk</a>
-
-
-### I have more questions/ideas/feedback/suggestions for zing42
+### I have more questions/ideas/suggestions for zing42
 
 <a href="/contact/">Let's talk</a>
-
 
