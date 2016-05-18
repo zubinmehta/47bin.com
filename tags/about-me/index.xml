@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on 47bin | Personal website</title>
-    <link>http://localhost:1313/tags/about-me/</link>
+    <link>http://47bin.com/tags/about-me/</link>
     <description>Recent content in About Me on 47bin | Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Sep 2015 21:29:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://47bin.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://47bin.com/about/</link>
       <pubDate>Wed, 30 Sep 2015 21:29:55 +0530</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://47bin.com/about/</guid>
       <description>
 
 &lt;p&gt;Hi, I am zubin and this my personal website.&lt;/p&gt;
 
 &lt;p&gt;I grew up in Bombay and have stayed here for major part of my life. I graduated from IIT Bombay with masters in Chemistry.&lt;/p&gt;
 
-&lt;p&gt;Currently, I am building &lt;a href=&#34;http://localhost:1313/post/what-is-zing42&#34; target=&#34;_blank&#34;&gt;zing42&lt;/a&gt; which is a command based messenger application.&lt;/p&gt;
+&lt;p&gt;Currently, I am building &lt;a href=&#34;http://47bin.com/post/what-is-zing42&#34; target=&#34;_blank&#34;&gt;zing42&lt;/a&gt; which is a command based messenger application.&lt;/p&gt;
 
 &lt;p&gt;I like solving complex problems, writing programs, coming up with (startup) ideas, making lists, appreciating colors and making plans for world domination.&lt;/p&gt;
 

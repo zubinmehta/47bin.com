@@ -2,38 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2016-04-26T09:32:48+05:30</lastmod>
+    <loc>http://47bin.com/</loc>
+    <lastmod>2016-04-25T19:33:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/standup/crabs-are-everywhere/</loc>
-    <lastmod>2016-04-26T09:32:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://47bin.com/contact/</loc>
     <lastmod>2016-04-25T19:33:45+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/what-is-zing42/</loc>
+    <loc>http://47bin.com/post/what-is-zing42/</loc>
     <lastmod>2016-04-25T12:35:57+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hello-world/</loc>
+    <loc>http://47bin.com/post/hello-world/</loc>
     <lastmod>2016-04-22T15:25:44+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://47bin.com/about/</loc>
     <lastmod>2015-09-30T21:29:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/z42-arch-rfc/</loc>
+    <loc>http://47bin.com/z42-arch-rfc/</loc>
     <lastmod>2015-09-30T21:29:55+05:30</lastmod>
   </url>
   
