@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zing42 on 47bin | Personal website</title>
-    <link>http://47bin.com/tags/zing42/</link>
+    <link>http://localhost:1313/tags/zing42/</link>
     <description>Recent content in Zing42 on 47bin | Personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2016 12:35:57 +0530</lastBuildDate>
-    <atom:link href="http://47bin.com/tags/zing42/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/zing42/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>what is zing42</title>
-      <link>http://47bin.com/post/what-is-zing42/</link>
+      <link>http://localhost:1313/post/what-is-zing42/</link>
       <pubDate>Mon, 25 Apr 2016 12:35:57 +0530</pubDate>
       
-      <guid>http://47bin.com/post/what-is-zing42/</guid>
+      <guid>http://localhost:1313/post/what-is-zing42/</guid>
       <description>
 
 &lt;p&gt;Command based messenger application.&lt;/p&gt;
@@ -111,7 +111,7 @@ etc.&lt;/p&gt;
 
 &lt;p&gt;You want a job (/getjob), you want a plumber (/plumber), you want a doctors opinion on chat (/doctor), you want to order a pizza (/pizza) or get the bloodbank&amp;rsquo;s number(/bloodbank) &amp;mdash; its all just a command.&lt;/p&gt;
 
-&lt;p&gt;If you have more ideas and if you think zing42 can help you or your organization, &lt;a href=&#34;http://47bin.com/contact/&#34;&gt; let me know.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you have more ideas and if you think zing42 can help you or your organization, &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt; let me know.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We are very excited to launch this. We should be android and web ready sometime in May, 2016 :)&lt;/p&gt;
 
@@ -135,7 +135,7 @@ etc.&lt;/p&gt;
 
 &lt;h3 id=&#34;how-do-i-build-commands-for-zing42:ea126b48919539b24595e046f166e9cf&#34;&gt;How do I build commands for zing42 ?&lt;/h3&gt;
 
-&lt;p&gt;Our APIs are not yet public but I can work with you on this front and help you publish your command. &lt;a href=&#34;http://47bin.com/contact/&#34;&gt;Contact me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our APIs are not yet public but I can work with you on this front and help you publish your command. &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact me&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;why-not-just-build-on-top-of-other-chat-platforms:ea126b48919539b24595e046f166e9cf&#34;&gt;Why not just build on top of other chat platforms.&lt;/h3&gt;
 
@@ -160,7 +160,33 @@ We want to keep building robust tech and see how it goes.&lt;/p&gt;
 
 &lt;h3 id=&#34;i-have-more-questions-ideas-suggestions-for-zing42:ea126b48919539b24595e046f166e9cf&#34;&gt;I have more questions/ideas/suggestions for zing42&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://47bin.com/contact/&#34;&gt;Let&amp;rsquo;s talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Let&amp;rsquo;s talk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>z42 RFC</title>
+      <link>http://localhost:1313/z42-arch-rfc/</link>
+      <pubDate>Wed, 30 Sep 2015 21:29:55 +0530</pubDate>
+      
+      <guid>http://localhost:1313/z42-arch-rfc/</guid>
+      <description>
+
+&lt;h1 id=&#34;ahoy:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Ahoy!&lt;/h1&gt;
+
+&lt;p&gt;We are building a thing we are extremely passionate about.&lt;/p&gt;
+
+&lt;h2 id=&#34;data-flow:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Data flow&lt;/h2&gt;
+
+&lt;h2 id=&#34;m-mr-interplay-different-cases:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;M / MR interplay. Different cases&lt;/h2&gt;
+
+&lt;h2 id=&#34;android-device-vs-web-ui-on-data-storage:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Android device vs Web UI on data storage&lt;/h2&gt;
+
+&lt;h2 id=&#34;commands-completed:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Commands completed&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;- /likeaboss
+- /schedule
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
