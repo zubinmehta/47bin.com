@@ -164,31 +164,5 @@ We want to keep building robust tech and see how it goes.&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>z42 RFC</title>
-      <link>http://47bin.com/z42-arch-rfc/</link>
-      <pubDate>Wed, 30 Sep 2015 21:29:55 +0530</pubDate>
-      
-      <guid>http://47bin.com/z42-arch-rfc/</guid>
-      <description>
-
-&lt;h1 id=&#34;ahoy:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Ahoy!&lt;/h1&gt;
-
-&lt;p&gt;We are building a thing we are extremely passionate about.&lt;/p&gt;
-
-&lt;h2 id=&#34;data-flow:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Data flow&lt;/h2&gt;
-
-&lt;h2 id=&#34;m-mr-interplay-different-cases:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;M / MR interplay. Different cases&lt;/h2&gt;
-
-&lt;h2 id=&#34;android-device-vs-web-ui-on-data-storage:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Android device vs Web UI on data storage&lt;/h2&gt;
-
-&lt;h2 id=&#34;commands-completed:f249cfce54a702b869b0e5b391e6a4f9&#34;&gt;Commands completed&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;- /likeaboss
-- /schedule
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
