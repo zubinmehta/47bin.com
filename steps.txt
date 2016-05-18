@@ -1,0 +1,13 @@
+hugo new post/blah.md
+
+-- Kill the local server if its running
+
+rm -rf dist
+
+hugo -d dist
+
+-- Check to verify if the required post now shows in dist/post/
+
+cp CNAME_in_dist_folder dist/CNAME
+
+./deploy.sh
