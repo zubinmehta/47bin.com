@@ -10,7 +10,7 @@ tags = ["zing42"]
 
 Command based messenger application.
 
-zing42 is a project I have been working on for almost a year now.  
+zing42 is a project I have been working on for almost a year now.
 
 While chatting with people you would be able to do much more than just chat using our wide array of slash "/commands". See below for examples.
 
@@ -55,7 +55,6 @@ india pak cricket match
 Beer or Coca-cola
 </span>  
 <span style="color:blue">/where</span> is <span style="color:DarkOrange;">@zubin</span>  
-<span style="color:blue">/uber</span>  
 <span style="color:green;">/when</span>
 <span style="color:cadetblue;">/nasdaq alphabet inc > 800 /notify</span>   <span style="color:lightgrey;">(Notify me when NASDAQ:GOOGL crosses stock price of 800)</span>  
 <span style="color:Fuchsia;">/mail </span>
